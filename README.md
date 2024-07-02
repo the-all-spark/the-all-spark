@@ -37,5 +37,6 @@ Project name, project link   | Demo |   Description, main functionality     |   
 ![image](https://github.com/the-all-spark/the-all-spark/blob/main/in%20progress-icon.svg) - in progress.
 
 <h3><span style='font-size:20px;'>&#128222;</span> Contacts</h3>
-<a href="linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="https://github.com/the-all-spark/the-all-spark/blob/main/linkedin.svg" alt="linkedin" height=25px /></a>
-<a href="anna.r.german1410@gmail.com" target="_blank" title="gmail"><img src="https://github.com/the-all-spark/the-all-spark/blob/main/gmail.svg" alt="gmail" height=25px /></a>
+<a href="https://linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="https://github.com/the-all-spark/the-all-spark/blob/main/linkedin.svg" alt="linkedin" height=25px /></a><span> 
+      linkedin.com/in/ann-german</span>  
+<p><span><img src="https://github.com/the-all-spark/the-all-spark/blob/main/gmail.svg" alt="gmail" height=25px/>    anna.r.german1410@gmail.com</span></p>
