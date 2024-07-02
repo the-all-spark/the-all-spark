@@ -27,7 +27,7 @@ Graphics:
 
 Project name, link   |    Main functionality     |     Stack    | Status |
 :-------------------:|---------------------------|--------------|--------|
-[To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Include statictics. | JS, CSS, HTML | ![image](...)
+[To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Include statictics. | JS, CSS, HTML | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
 
 <h3><span style='font-size:20px;'>&#128222;</span> Contacts</h3>
 <a href="linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="https://github.com/the-all-spark/the-all-spark/blob/main/linkedin.svg" alt="linkedin" height=25px /></a>
