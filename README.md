@@ -25,12 +25,12 @@ Graphics:
 
 <h3><span style='font-size:20px;'>&#128190;</span> My projects</h3>
 
-Project name, link   |    Description, main functionality     |     Stack    | Status |
----------------------|----------------------------------------|--------------|--------|
-[To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
-[Workbook](https://github.com/the-all-spark/workbook) | The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/updated%20soon.svg)
-[Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
-[Postcards-calendars-collection](https://github.com/the-all-spark/postcards-calendars-collection) | Site for the private collection of postcards and calendars; includes hints pop up, filter, form's validation and others | HTML, CSS, JS, jQuery | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
+Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
+-----------------------------|------|----------------------------------|--------------|--------|
+[To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | [![image](https://github.com/the-all-spark/the-all-spark/blob/main/external_link.svg)](https://the-all-spark.github.io/to-do-list-app/) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
+[Workbook](https://github.com/the-all-spark/workbook) | [![image](https://github.com/the-all-spark/the-all-spark/blob/main/external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/updated%20soon.svg)
+[Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](https://github.com/the-all-spark/the-all-spark/blob/main/external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
+[Postcards-calendars-collection](https://github.com/the-all-spark/postcards-calendars-collection) | [![image](https://github.com/the-all-spark/the-all-spark/blob/main/external_link.svg)](https://the-all-spark.github.io/postcards-calendars-collection/) | Site for the private collection of postcards and calendars; includes hints pop up, filter, form's validation and others | HTML, CSS, JS, jQuery | ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg)
 
 ![image](https://github.com/the-all-spark/the-all-spark/blob/main/done_mark.svg) - done; 
 ![image](https://github.com/the-all-spark/the-all-spark/blob/main/updated%20soon.svg) - will be updated in the future; 
