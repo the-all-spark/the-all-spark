@@ -39,4 +39,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 <h3><span style='font-size:20px;'>&#128222;</span> Contacts</h3>
 <a href="https://linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="https://github.com/the-all-spark/the-all-spark/blob/main/linkedin.svg" alt="linkedin" height=25px /></a><span> 
       linkedin.com/in/ann-german</span>  
-<p><span><img src="https://github.com/the-all-spark/the-all-spark/blob/main/gmail.svg" alt="gmail" height=25px/>    anna.r.german1410@gmail.com</span></p>
+<p><span><img src="https://github.com/the-all-spark/the-all-spark/blob/main/gmail.svg" alt="gmail" height=25px/>    anna.r.german1410@gmail.com</span></br>
+<span><img src="https://github.com/the-all-spark/the-all-spark/blob/main/maildotru.svg" alt="yandex" height=25px/>    g11-14@yandex.by</span></br>
+<span><img src="https://github.com/the-all-spark/the-all-spark/blob/main/telegram.svg" alt="telegram" height=25px/>    @AG_1055</span>
+</p>
