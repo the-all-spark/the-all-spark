@@ -32,6 +32,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](./done_mark.svg)
 [Postcards-calendars-collection](https://github.com/the-all-spark/postcards-calendars-collection) | [![image](./external_link.svg)](https://the-all-spark.github.io/postcards-calendars-collection/) | Site for the private collection of postcards and calendars; includes hints pop up, filter, form's validation and others | HTML, CSS, JS, jQuery | ![image](./done_mark.svg)
+[3d-artkarta_info](https://github.com/the-all-spark/3d-artkarta_info) | [![image](./external_link.svg)](https://3d-artkarta.by/) | Personal site of the artist-cartographer R. Atoyan "3D artistic maps of Belarus" | HTML, CSS, JS, Wordpress | ![image](./updated%20soon.svg)
 
 ![image](./done_mark.svg) - done; 
 ![image](./updated%20soon.svg) - will be updated in the future; 
