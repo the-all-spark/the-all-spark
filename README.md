@@ -9,7 +9,7 @@
 
 <h3><span style='font-size:20px;'>&#128295;</span> Other stack and tools</h3>
 
-Stack:  ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+Stack and tools:  ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -23,16 +23,27 @@ Graphics:
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-<h3><span style='font-size:20px;'>&#128190;</span> My projects</h3>
+<h3><span style='font-size:20px;'>&#128191;</span> My projects</h3>
+
+<h4><span style='font-size:16px;'>&#128214;</span> Sites</h4>
+
+Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
+-----------------------------|------|----------------------------------|--------------|--------|
+[Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
+[3d-artkarta_info](https://github.com/the-all-spark/3d-artkarta_info) | [![image](./external_link.svg)](https://3d-artkarta.by/) | Personal site of the artist-cartographer R. Atoyan "3D artistic maps of Belarus" | HTML, CSS, JS, Wordpress | ![image](./updated%20soon.svg)
+[Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](./done_mark.svg)
+[Postcards-calendars-collection](https://github.com/the-all-spark/postcards-calendars-collection) | [![image](./external_link.svg)](https://the-all-spark.github.io/postcards-calendars-collection/) | Site for the private collection of postcards and calendars; includes hints pop up, filter, form's validation and others | HTML, CSS, JS, jQuery | ![image](./done_mark.svg)
+
+![image](./done_mark.svg) - done; 
+![image](./updated%20soon.svg) - will be updated in the future; 
+![image](./in%20progress-icon.svg) - in progress.
+
+<h4><span style='font-size:16px;'>&#128196;</span> Pages / Applications</h4>
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
 -----------------------------|------|----------------------------------|--------------|--------|
 [Birthdates book](https://github.com/the-all-spark/birthdates_book) | [![image](./external_link.svg)](https://the-all-spark.github.io/birthdates_book/) | Table that includes birthdays and some contacts of your friends and relatives. Opens on current month, shows sorted rows and statistics | JS, CSS, HTML | ![image](./in%20progress-icon.svg)
 [To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/to-do-list-app/) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](./done_mark.svg)
-[Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
-[Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](./done_mark.svg)
-[Postcards-calendars-collection](https://github.com/the-all-spark/postcards-calendars-collection) | [![image](./external_link.svg)](https://the-all-spark.github.io/postcards-calendars-collection/) | Site for the private collection of postcards and calendars; includes hints pop up, filter, form's validation and others | HTML, CSS, JS, jQuery | ![image](./done_mark.svg)
-[3d-artkarta_info](https://github.com/the-all-spark/3d-artkarta_info) | [![image](./external_link.svg)](https://3d-artkarta.by/) | Personal site of the artist-cartographer R. Atoyan "3D artistic maps of Belarus" | HTML, CSS, JS, Wordpress | ![image](./updated%20soon.svg)
 
 ![image](./done_mark.svg) - done; 
 ![image](./updated%20soon.svg) - will be updated in the future; 
