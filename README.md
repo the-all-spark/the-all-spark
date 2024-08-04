@@ -28,7 +28,7 @@ Graphics:
 <h4><span style='font-size:16px;'>&#128214;</span> Sites</h4>
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
------------------------------|------|----------------------------------|--------------|--------|
+-----------------------------|------|---------------------------------------|--------------|--------|
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [3d-artkarta_info](https://github.com/the-all-spark/3d-artkarta_info) | [![image](./external_link.svg)](https://3d-artkarta.by/) | Personal site of the artist-cartographer R. Atoyan "3D artistic maps of Belarus" | HTML, CSS, JS, Wordpress | ![image](./updated%20soon.svg)
 [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](./done_mark.svg)
@@ -41,7 +41,8 @@ Project name, project link   | Demo |   Description, main functionality     |   
 <h4><span style='font-size:16px;'>&#128196;</span> Pages / Applications</h4>
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
------------------------------|------|----------------------------------|--------------|--------|
+-----------------------------|------|---------------------------------------|--------------|--------|
+[Hide letters application](https://github.com/the-all-spark/hide_letters_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/hide_letters_app/) | Hide letters in submitted text replacing them to selected symbol. | JS, HTML, CSS | ![image](./done_mark.svg)
 [Birthdates book](https://github.com/the-all-spark/birthdates_book) | [![image](./external_link.svg)](https://the-all-spark.github.io/birthdates_book/) | Table that includes birthdays and some contacts of your friends and relatives. Opens on current month, shows sorted rows and statistics | JS, CSS, HTML | ![image](./in%20progress-icon.svg)
 [To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/to-do-list-app/) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](./done_mark.svg)
 
