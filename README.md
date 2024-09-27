@@ -44,6 +44,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
 -----------------------------|------|---------------------------------------|--------------|--------|
+[Get coordinates application](https://github.com/the-all-spark/get_coordinates_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/get_coordinates_app/) | Application for getting coordinates of object on an image | JS, HTML, CSS | ![image](./in%20progress-icon.svg)
 [Construct anchor links application](https://github.com/the-all-spark/construct_anchor_links_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/construct_anchor_links_app/) | Helper to construct anchor links and add code to page | JS, HTML, CSS | ![image](./done_mark.svg)
 [Hide letters application](https://github.com/the-all-spark/hide_letters_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/hide_letters_app/) | Hide letters in submitted text replacing them to selected symbol | JS, HTML, CSS | ![image](./done_mark.svg)
 [Birthdates book](https://github.com/the-all-spark/birthdates_book) | [![image](./external_link.svg)](https://the-all-spark.github.io/birthdates_book/) | Table that includes birthdays and some contacts of your friends and relatives. Opens on current month, shows sorted rows and statistics | JS, CSS, HTML | ![image](./in%20progress-icon.svg)
