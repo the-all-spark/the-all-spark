@@ -29,8 +29,8 @@ Graphics:
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
 -----------------------------|------|---------------------------------------|--------------|--------|
-[My CV](https://github.com/the-all-spark/GermanA_CV) | [![image](./external_link.svg)](https://the-all-spark.github.io/GermanA_CV/) | My CV in Russian. | HTML, CSS | ![image](./in%20progress-icon.svg)
-[RP Location Schemes](https://github.com/the-all-spark/rp_location_schemes) | [![image](./external_link.svg)](https://the-all-spark.github.io/rp_location_schemes/) | Main information about objects' location for role playing forum. | HTML, CSS, JS | ![image](./in%20progress-icon.svg)
+[My CV](https://github.com/the-all-spark/GermanA_CV) | [![image](./external_link.svg)](https://the-all-spark.github.io/GermanA_CV/) | My CV in Russian. | HTML, CSS | ![image](./updated%20soon.svg)
+[RP Location Schemes](https://github.com/the-all-spark/rp_location_schemes) | [![image](./external_link.svg)](https://the-all-spark.github.io/rp_location_schemes/) | Main information about objects' location for role playing forum. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [3d-artkarta_info](https://github.com/the-all-spark/3d-artkarta_info) | [![image](./external_link.svg)](https://3d-artkarta.by/) | Personal site of the artist-cartographer R. Atoyan "3D artistic maps of Belarus" | HTML, CSS, JS, Wordpress | ![image](./updated%20soon.svg)
 [Novogrudok-travel-app](https://github.com/the-all-spark/Novogrudok-travel-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/Novogrudok-travel-app/) | A promotional page for the Novogrudok tourist app; includes sound control panel, slider, survey-test and others. | CSS, HTML, JS | ![image](./done_mark.svg)
