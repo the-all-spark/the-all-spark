@@ -55,7 +55,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 ![image](./in%20progress-icon.svg) - in progress.
 
 <h3><span style='font-size:20px;'>&#128222;</span> Contacts</h3>
-<a href="https://linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="./linkedin.svg" alt="linkedin" height=25px /><span> 
+<a href="https://linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="./linkedin.svg" alt="linkedin" style="max-width:100%; height:25px;" /><span> 
       linkedin.com/in/ann-german</span></a>  
 <p>
   <span><img src="./gmail.svg" alt="gmail" style="max-width:100%; height:25px;" />    anna.r.german1410@gmail.com</span></br>
