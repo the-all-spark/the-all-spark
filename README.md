@@ -58,7 +58,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 <a href="https://linkedin.com/in/ann-german" target="_blank" title="linkedIn account"><img src="./linkedin.svg" alt="linkedin" height=25px /><span> 
       linkedin.com/in/ann-german</span></a>  
 <p>
-  <span><img src="./gmail.svg" alt="gmail" height=15/>    anna.r.german1410@gmail.com</span></br>
-  <span><img src="./maildotru.svg" alt="yandex" height=15/>    g11-14@yandex.by</span></br>
-  <span><img src="./telegram.svg" alt="telegram" height=15/>    @AG_1055</span>
+  <span><img src="./gmail.svg" alt="gmail" style="max-width:100%; height:25px;" />    anna.r.german1410@gmail.com</span></br>
+  <span><img src="./maildotru.svg" alt="yandex" style="max-width:100%; height:25px;" />    g11-14@yandex.by</span></br>
+  <span><img src="./telegram.svg" alt="telegram" style="max-width:100%; height:25px;" />    @AG_1055</span>
 </p>
