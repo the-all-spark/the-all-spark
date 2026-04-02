@@ -49,10 +49,14 @@ Graphics:
 
 <h3><span style='font-size:20px;'>&#128191;</span> My projects</h3>
 
-<h4><span style='font-size:16px;'>&#128214;</span> Sites</h4>
+<h4><span style='font-size:16px;'>&#128214;</span> Sites / Applications</h4>
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
 -----------------------------|------|---------------------------------------|--------------|--------|
+[HCare app](https://github.com/the-all-spark/next-app) | [![image](./external_link.svg)](https://next-app-dusky-eight.vercel.app/) | Next.js-application for doctors to manage their patients | React, Typescript, Next.js, Zustand, Shadcn-ui | ![image](./done_mark.svg)
+[All-Inclusive Market](https://github.com/the-all-spark/ecommerce-market) | [![image](./external_link.svg)](https://the-all-spark.github.io/ecommerce-market/) | E-commerce market SPA application | React, Typescript, Tanstack Router, Tanstack Query, Tailwind CSS, Vite | ![image](./done_mark.svg)
+[Recipes App](https://github.com/the-all-spark/recipes-spa-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/recipes-spa-app/) | SPA application with recipes | React, Typescript, React Router, Redux, RTK Query, MUI, Webpack  | ![image](./done_mark.svg)
+[Show Business](https://github.com/the-all-spark/show-business) | [![image](./external_link.svg)](https://the-all-spark.github.io/show-business/) | Web site that allows users to view the news about the show business industry (corresponds to the Pixel Perfect approach) |  HTML, CSS, JS, SCSS, BEM | ![image](./done_mark.svg)
 [My CV](https://github.com/the-all-spark/GermanA_CV) | [![image](./external_link.svg)](https://the-all-spark.github.io/GermanA_CV/) | My CV in Russian. | HTML, CSS | ![image](./updated%20soon.svg)
 [RP Location Schemes](https://github.com/the-all-spark/rp_location_schemes) | [![image](./external_link.svg)](https://the-all-spark.github.io/rp_location_schemes/) | Main information about objects' location for role playing forum. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
@@ -64,12 +68,10 @@ Project name, project link   | Demo |   Description, main functionality     |   
 ![image](./updated%20soon.svg) - will be updated in the future; 
 ![image](./in%20progress-icon.svg) - in progress.
 
-<h4><span style='font-size:16px;'>&#128196;</span> Pages / Applications</h4>
+<h4><span style='font-size:16px;'>&#128196;</span> Pages / Small applications</h4>
 
 Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
 -----------------------------|------|---------------------------------------|--------------|--------|
-[HCare app](https://github.com/the-all-spark/next-app) | [![image](./external_link.svg)](https://next-app-dusky-eight.vercel.app/) | Next.js-application for doctors to manage their patients | React, Typescript, Next.js, Zustand, Shadcn-ui | ![image](./done_mark.svg)
-[All-Inclusive Market](https://github.com/the-all-spark/ecommerce-market) | [![image](./external_link.svg)](https://the-all-spark.github.io/ecommerce-market/) | E-commerce market SPA application | React, Typescript, Tanstack Query, Tanstack Router, Tailwind CSS, Vite | ![image](./done_mark.svg)
 [Get coordinates application](https://github.com/the-all-spark/get_coordinates_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/get_coordinates_app/) | Application for getting coordinates of object on an image | JS, HTML, CSS | ![image](./in%20progress-icon.svg)
 [Construct anchor links application](https://github.com/the-all-spark/construct_anchor_links_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/construct_anchor_links_app/) | Helper to construct anchor links and add code to page | JS, HTML, CSS | ![image](./done_mark.svg)
 [Hide letters application](https://github.com/the-all-spark/hide_letters_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/hide_letters_app/) | Hide letters in submitted text replacing them to selected symbol | JS, HTML, CSS | ![image](./done_mark.svg)
