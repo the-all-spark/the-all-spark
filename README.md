@@ -65,6 +65,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [Get coordinates application](https://github.com/the-all-spark/get_coordinates_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/get_coordinates_app/) | Application for getting coordinates of object on an image | JS, HTML, CSS | ![image](./in%20progress-icon.svg)
 [To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/to-do-list-app/) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](./done_mark.svg)
+[Calculator app](https://github.com/the-all-spark/calculator-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/calculator-app/) | Simple calculator with main operations. Allows to switch color scheme. |  HTML, CSS, JS, Webpack | ![image](./done_mark.svg)
 [Show Business](https://github.com/the-all-spark/show-business) | [![image](./external_link.svg)](https://the-all-spark.github.io/show-business/) | Web site that allows users to view the news about the show business industry (corresponds to the Pixel Perfect approach) |  HTML, CSS, JS, SCSS, BEM | ![image](./done_mark.svg)
 [My CV](https://github.com/the-all-spark/GermanA_CV) | [![image](./external_link.svg)](https://the-all-spark.github.io/GermanA_CV/) | My CV in Russian. | HTML, CSS | ![image](./in%20progress-icon.svg)
 [Birthdates book](https://github.com/the-all-spark/birthdates_book) | [![image](./external_link.svg)](https://the-all-spark.github.io/birthdates_book/) | Table that includes birthdays and some contacts of your friends and relatives. Opens on current month, shows sorted rows and statistics | JS, CSS, HTML | ![image](./in%20progress-icon.svg)
@@ -85,8 +86,9 @@ Project name, project link   | Demo |   Description, main functionality     |   
 
 <h3><span style='font-size:20px;'>&#128191;</span> My projects: Backend</h3>
 
-Project name, project link   | Demo |   Description, main functionality     |     Stack    | Status |
------------------------------|------|---------------------------------------|--------------|--------|
+Project name, project link  | Type / Link |  Description, main functionality   |     Stack    | Status |
+----------------------------|-------------|------------------------------------|--------------|--------|
+[JSON-to-CSV Converter](https://github.com/the-all-spark/json-to-csv-converter) | CLI / [npmjs.com](https://www.npmjs.com/package/@the-all-spark/json-to-csv-converter) | A command line tool to convert JSON file to CSV and upload the result CSV file to Google Drive. | JS, Node.js; libraries: commander, googleapis | ![image](./done_mark.svg)
 
 ![image](./done_mark.svg) - done; 
 ![image](./updated%20soon.svg) - will be updated in the future; 
