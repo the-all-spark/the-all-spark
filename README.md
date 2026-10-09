@@ -12,6 +12,11 @@ Core languages, libraries, technologies:
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+Styling:
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+
 Frameworks: 
 ![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -19,12 +24,23 @@ Frameworks:
 
 State management:
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Zustand-D5D9DE?style=for-the-badge)
 
-Styling:
-![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+Routing:
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![image](https://img.shields.io/badge/TanStack_Router-90E59A?style=for-the-badge)
+
+Working with API: 
+![image](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![image](https://img.shields.io/badge/TanStack_Query-D97757?style=for-the-badge)
+![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+DBMS, Databases, ORM:
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 
 Build tools and containerization:
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -32,10 +48,7 @@ Build tools and containerization:
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-DBMS and Databases:
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 Other technologies:  ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -88,6 +101,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 
 Project name, project link  | Type / Link |  Description, main functionality   |     Stack    | Status |
 ----------------------------|-------------|------------------------------------|--------------|--------|
+[Car Sharing App](https://github.com/the-all-spark/car-sharing-app) | API | RESTful API to manage a car sharing park. | JS, Node.js, Express, MongoDB (Mongoose), Docker Compose, Swagger | ![image](./done_mark.svg)
 [JSON-to-CSV Converter](https://github.com/the-all-spark/json-to-csv-converter) | CLI / [npmjs.com](https://www.npmjs.com/package/@the-all-spark/json-to-csv-converter) | A command line tool to convert JSON file to CSV and upload the result CSV file to Google Drive. | JS, Node.js; libraries: commander, googleapis | ![image](./done_mark.svg)
 
 ![image](./done_mark.svg) - done; 
