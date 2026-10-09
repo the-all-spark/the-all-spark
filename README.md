@@ -1,7 +1,7 @@
 <h2 align="center"><span style='font-size:20px;'>&#128521;</span> Hi there, my name is Anna.</h2>
-<p align="left">I'm a fullstack developer, cartographer, PhD in Geography from Minsk, Belarus. </p>
+<p align="left">I'm a fullstack developer, cartographer, PhD in Geography. </p>
 
-<h3><span style='font-size:20px;'>&#128187;</span> My main stack</h3>
+<h3><span style='font-size:20px;'>&#128187;</span> My stack</h3>
 
 Core languages, libraries, technologies:
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,11 +36,12 @@ Working with API:
 ![image](https://img.shields.io/badge/TanStack_Query-D97757?style=for-the-badge)
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-DBMS, Databases, ORM:
+DBMS, Databases, ORM, ODM:
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![image](https://img.shields.io/badge/mongoose-840010?style=for-the-badge)
 
 Build tools and containerization:
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -48,9 +49,13 @@ Build tools and containerization:
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+Testing: 
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![image](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
+![image](https://img.shields.io/badge/React_Testing_Library-CA4245?style=for-the-badge)
 
-
-Other technologies:  ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+Other technologies:
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
