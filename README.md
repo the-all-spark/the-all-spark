@@ -1,9 +1,9 @@
 <h2 align="center"><span style='font-size:20px;'>&#128521;</span> Hi there, my name is Anna.</h2>
-<p align="left">I'm a fullstack developer, cartographer, PhD in Geography. </p>
+<p align="left">I'm a Frontend (Fullstack) developer, cartographer, PhD in Geography. </p>
 
 <h3><span style='font-size:20px;'>&#128187;</span> My stack</h3>
 
-Core languages, libraries, technologies:
+Core Languages & Frontend Libraries:  
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,52 +12,49 @@ Core languages, libraries, technologies:
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Styling:
-![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-Frameworks: 
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-State management:
+State Management & Data Fetching:  
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/Zustand-D5D9DE?style=for-the-badge)
-
-Routing:
-![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![image](https://img.shields.io/badge/TanStack_Router-90E59A?style=for-the-badge)
-
-Working with API: 
+![image](https://img.shields.io/badge/Zustand-D5D9DE?style=for-the-badge)  
 ![image](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/TanStack_Query-D97757?style=for-the-badge)
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-DBMS, Databases, ORM, ODM:
+Styling:  
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/shadcn_ui-black?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+Frameworks & Routing:   
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![image](https://img.shields.io/badge/TanStack_Router-90E59A?style=for-the-badge)
+
+Databases & ORM/ODM:  
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![image](https://img.shields.io/badge/mongoose-840010?style=for-the-badge)
 
-Build tools and containerization:
-![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+DevOps, Infrastructure & Build Tools:  
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
-Testing: 
+Testing:  
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![image](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
 ![image](https://img.shields.io/badge/React_Testing_Library-CA4245?style=for-the-badge)
 
-Other technologies:
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+Other:  
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 <h3><span style='font-size:20px;'>&#128295;</span> Other tools</h3>
 
@@ -81,7 +78,7 @@ Project name, project link   | Demo |   Description, main functionality     |   
 [Recipes App](https://github.com/the-all-spark/recipes-spa-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/recipes-spa-app/) | SPA application with recipes | React, Typescript, React Router, Redux, RTK Query, MUI, Webpack  | ![image](./done_mark.svg)
 [RP Location Schemes](https://github.com/the-all-spark/rp_location_schemes) | [![image](./external_link.svg)](https://the-all-spark.github.io/rp_location_schemes/) | Main information about objects' location for role playing forum. | HTML, CSS, JS | ![image](./updated%20soon.svg)
 [Workbook](https://github.com/the-all-spark/workbook) | [![image](./external_link.svg)](https://the-all-spark.github.io/workbook/) |The collection of materials with specific tasks in the field of web development, their solution and explanation. | HTML, CSS, JS | ![image](./updated%20soon.svg)
-[Get coordinates application](https://github.com/the-all-spark/get_coordinates_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/get_coordinates_app/) | Application for getting coordinates of object on an image | JS, HTML, CSS | ![image](./in%20progress-icon.svg)
+[Get coordinates application](https://github.com/the-all-spark/get_coordinates_app) | [![image](./external_link.svg)](https://the-all-spark.github.io/get_coordinates_app/) | Application for getting coordinates of object on an image | JS, HTML, CSS | ![image](./done_mark.svg)
 [To-Do List Application](https://github.com/the-all-spark/to-do-list-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/to-do-list-app/) | Add new items to the list, cross off completed tasks (with the ability to undo this action), delete them. Includes statictics. | JS, CSS, HTML | ![image](./done_mark.svg)
 [Calculator app](https://github.com/the-all-spark/calculator-app) | [![image](./external_link.svg)](https://the-all-spark.github.io/calculator-app/) | Simple calculator with main operations. Allows to switch color scheme. |  HTML, CSS, JS, Webpack | ![image](./done_mark.svg)
 [Show Business](https://github.com/the-all-spark/show-business) | [![image](./external_link.svg)](https://the-all-spark.github.io/show-business/) | Web site that allows users to view the news about the show business industry (corresponds to the Pixel Perfect approach) |  HTML, CSS, JS, SCSS, BEM | ![image](./done_mark.svg)
