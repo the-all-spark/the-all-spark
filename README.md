@@ -106,8 +106,9 @@ Project name, project link   | Demo |   Description, main functionality     |   
 
 Project name, project link  | Type / Link |  Description, main functionality   |     Stack    | Status |
 ----------------------------|-------------|------------------------------------|--------------|--------|
-[Car Sharing App](https://github.com/the-all-spark/car-sharing-app) | API | RESTful API to manage a car sharing park. | JS, Node.js, Express, MongoDB (Mongoose), Docker Compose, Swagger | ![image](./done_mark.svg)
-[JSON-to-CSV Converter](https://github.com/the-all-spark/json-to-csv-converter) | CLI / [npmjs.com](https://www.npmjs.com/package/@the-all-spark/json-to-csv-converter) | A command line tool to convert JSON file to CSV and upload the result CSV file to Google Drive. | JS, Node.js; libraries: commander, googleapis | ![image](./done_mark.svg)
+[Pizza Delivery App](https://github.com/the-all-spark/pizza-delivery) | API | Microservices Application (API) for pizza delivery management | NestJS, TypeScript, PostgreSQL (TypeORM), MongoDB (Mongoose), Swagger, RabbitMQ, Docker (Docker Compose) | ![image](./done_mark.svg)
+[Car Sharing App](https://github.com/the-all-spark/car-sharing-app) | API | RESTful API to manage a car sharing park | JS, Node.js, Express, MongoDB (Mongoose), Docker Compose, Swagger | ![image](./done_mark.svg)
+[JSON-to-CSV Converter](https://github.com/the-all-spark/json-to-csv-converter) | CLI / [npmjs.com](https://www.npmjs.com/package/@the-all-spark/json-to-csv-converter) | A command line tool to convert JSON file to CSV and upload the result CSV file to Google Drive | JS, Node.js; libraries: commander, googleapis | ![image](./done_mark.svg)
 
 ![image](./done_mark.svg) - done; 
 ![image](./updated%20soon.svg) - will be updated in the future; 
